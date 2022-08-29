@@ -1,0 +1,2 @@
+city="katmandu"
+print()
